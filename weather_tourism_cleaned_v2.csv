@@ -1,0 +1,12 @@
+city,temperature_c,humidity_pct,precipitation_mm,windspeed_kmh,attractions_count,source_url
+London,20.7,41,0.0,14.4,109,https://en.wikipedia.org/wiki/Category:Tourist_attractions_in_London
+Paris,21.0,50,0.0,11.2,115,https://en.wikipedia.org/wiki/Category:Tourist_attractions_in_Paris
+Rome,27.9,42,0.0,10.8,90,https://en.wikipedia.org/wiki/Category:Tourist_attractions_in_Rome
+Berlin,24.5,39,0.0,11.7,74,https://en.wikipedia.org/wiki/Category:Tourist_attractions_in_Berlin
+Madrid,26.2,37,0.0,4.2,32,https://en.wikipedia.org/wiki/Category:Tourist_attractions_in_Madrid
+Vienna,24.3,22,0.0,17.2,74,https://en.wikipedia.org/wiki/Category:Tourist_attractions_in_Vienna
+Amsterdam,20.2,66,0.0,16.2,44,https://en.wikipedia.org/wiki/Category:Tourist_attractions_in_Amsterdam
+Prague,24.7,33,0.0,5.5,65,https://en.wikipedia.org/wiki/Category:Tourist_attractions_in_Prague
+Barcelona,24.4,70,0.0,12.7,78,https://en.wikipedia.org/wiki/Category:Tourist_attractions_in_Barcelona
+Istanbul,18.1,71,0.0,24.2,62,https://en.wikipedia.org/wiki/Category:Tourist_attractions_in_Istanbul
+
